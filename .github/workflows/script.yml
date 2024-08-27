@@ -24,6 +24,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a Python script
-        run: test.py
+        run: python test.py
 
   
