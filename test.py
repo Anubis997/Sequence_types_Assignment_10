@@ -1,5 +1,5 @@
 
-from Polygon Class import Polygon
+from polygon_class import Polygon
 
 def test_polygon():
     abs_tol = 0.001
